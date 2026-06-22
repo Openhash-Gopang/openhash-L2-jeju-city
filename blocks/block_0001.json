@@ -1,0 +1,24 @@
+{
+  "block_number": 1,
+  "block_type": "HASH_CHAIN_ANCHOR",
+  "node_id": "KR-JEJU-JEJU",
+  "layer": 2,
+  "timestamp": "2026-06-22T10:46:43.210950+00:00",
+  "data": {
+    "entry_hash": "832496fca42f272ec6dfef92df8df757c064f2ffaa121f8e5746f9c6d6195c6e",
+    "content_hash": "315eb28f20515bba7edadb8d17bfef9144e66ca9c85fa1905295fc2850b6f290",
+    "msg_id": "phase2-test-L2",
+    "signatures": [
+      "sig1"
+    ],
+    "merkle_layer": "L2",
+    "score": 30,
+    "lcat": "B",
+    "block_height": 0,
+    "submitted_at": "2026-06-22T10:46:33.562Z"
+  },
+  "prev_hash": "2f7ea3a30faa23753dfd09b76866fa2acf7be120335866a554c9b4ec6b4de4f2",
+  "nonce": 0,
+  "openhash_tx": "CONFIRMED",
+  "hash": "89f690b35c2d37349144592e6cb84f3c889d89f586bbc4ac90d6ebc4fb3d73b9"
+}
