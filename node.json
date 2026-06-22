@@ -6,7 +6,7 @@
   "parent"       : "https://nounweb.github.io/openhash-L3-jeju",
   "children"     : ["KR-JEJU-JEJU-IDO1"],
   "endpoint"     : "https://nounweb.github.io/openhash-L2-jeju-city",
-  "repo"         : "nounweb/openhash-L2-jeju-city",
+  "repo"         : "Openhash-Gopang/openhash-L2-jeju-city",
   "status"       : "active",
   "version"      : "1.0.0",
   "created_at"   : "2026-05-21T00:00:00Z",
